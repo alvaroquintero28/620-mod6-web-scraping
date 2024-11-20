@@ -22,6 +22,9 @@ source venv/bin/activate
 pip install beautifulsoup4
 pip install lxml
 pip install html5lib
+pip install requests
+pip install spacy
+pip install spacytextblob
 # Try to resolve issues using your materials and the web.
 
 # If that doesn't work, ask for help in the discussion forums.
